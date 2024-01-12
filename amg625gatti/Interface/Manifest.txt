@@ -1,0 +1,2 @@
+Main-class: proj.pack.Interface
+Class-Path: lib/ojdbc11.jar
